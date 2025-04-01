@@ -16,3 +16,6 @@ print(fu(7))
 
 b=a+6
 c=b+9
+
+
+print("adf")
